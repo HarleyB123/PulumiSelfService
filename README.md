@@ -1,6 +1,6 @@
 # Pulumi Self Service at KPMG
 
-This is a repo for the blog you can read about [here]().
+This is a repo for the blog you can read about [here](https://medium.com/kpmg-uk-engineering/the-progression-of-self-service-at-kpmg-part-1-8923e64966e4).
 
 Code by [msaldra](https://github.com/msaldra)
 
